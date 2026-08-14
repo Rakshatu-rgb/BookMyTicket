@@ -33,12 +33,12 @@ build/
 .vscode/
 
 # Local Maven installation
-/apache-maven-3.9.11/
-/apache-maven-3.9.11-bin.zip
-/build-tools/
+apache-maven-3.9.11/
+apache-maven-3.9.11-bin.zip
+build-tools/
 
-# Local build files
-/bmt-expl.txt
-/build-skiptests.log
-/build.log
-/hs_err_*.log
+# Build and local files
+bmt-expl.txt
+build-skiptests.log
+build.log
+hs_err_*.log
