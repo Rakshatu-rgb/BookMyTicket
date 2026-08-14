@@ -32,11 +32,13 @@ build/
 ### VS Code ###
 .vscode/
 
-# Build and local Maven files
+# Local Maven installation
 apache-maven-3.9.11/
-build-tools/
 apache-maven-3.9.11-bin.zip
+build-tools/
 
-# Build logs
-*.log
+# Build and local files
 bmt-expl.txt
+build-skiptests.log
+build.log
+hs_err_*.log
