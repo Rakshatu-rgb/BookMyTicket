@@ -31,14 +31,26 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 
 # Local Maven installation
 apache-maven-3.9.11/
 apache-maven-3.9.11-bin.zip
 build-tools/
 
+<<<<<<< HEAD
 # Build and local files
 bmt-expl.txt
 build-skiptests.log
 build.log
 hs_err_*.log
+=======
+# Local build files
+/bmt-expl.txt
+/build-skiptests.log
+/build.log
+/hs_err_*.log
+=======
+apache-maven-3.9.11/
+>>>>>>> a39fed9 (Remove local Maven files)
+>>>>>>> f2bed31 (Remove local Maven files)
